@@ -1,0 +1,3 @@
+/home/vinicius/CMake/CMakeFiles/hello.dir
+/home/vinicius/CMake/CMakeFiles/edit_cache.dir
+/home/vinicius/CMake/CMakeFiles/rebuild_cache.dir
